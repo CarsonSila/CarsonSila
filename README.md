@@ -113,10 +113,10 @@ Weekly data engineering / analytics builds from ongoing coursework — ETL pipel
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarsonSila)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wambuacarson@gmail.com)
 
-<!-- Add your LinkedIn, email, or portfolio site here, e.g.:
+<!-- Add your LinkedIn or portfolio site here, e.g.:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 -->
 
 </div>
